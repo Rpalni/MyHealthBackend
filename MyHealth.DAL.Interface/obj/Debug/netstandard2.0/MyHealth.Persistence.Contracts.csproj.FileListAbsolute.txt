@@ -1,0 +1,12 @@
+C:\MyHealth\MyHealth.Persistence.Contracts\bin\Debug\netstandard2.0\MyHealth.Persistence.Contracts.deps.json
+C:\MyHealth\MyHealth.Persistence.Contracts\bin\Debug\netstandard2.0\MyHealth.Persistence.Contracts.dll
+C:\MyHealth\MyHealth.Persistence.Contracts\bin\Debug\netstandard2.0\MyHealth.Persistence.Contracts.pdb
+C:\MyHealth\MyHealth.Persistence.Contracts\bin\Debug\netstandard2.0\MyHealth.DomainModel.dll
+C:\MyHealth\MyHealth.Persistence.Contracts\bin\Debug\netstandard2.0\MyHealth.DomainModel.pdb
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.csprojAssemblyReference.cache
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.csproj.CoreCompileInputs.cache
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.AssemblyInfoInputs.cache
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.AssemblyInfo.cs
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.csproj.CopyComplete
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.dll
+C:\MyHealth\MyHealth.Persistence.Contracts\obj\Debug\netstandard2.0\MyHealth.Persistence.Contracts.pdb

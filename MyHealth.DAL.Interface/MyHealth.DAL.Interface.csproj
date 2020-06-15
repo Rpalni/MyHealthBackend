@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyHealth.DomainModel\MyHealth.DomainModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MyHealth.DomainModel">
+      <HintPath>..\MyHealth.DomainModel\bin\Debug\netstandard2.0\MyHealth.DomainModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

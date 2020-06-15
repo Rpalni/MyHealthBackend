@@ -1,0 +1,12 @@
+C:\MyHealth\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+C:\MyHealth\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+C:\MyHealth\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+C:\MyHealth\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+C:\MyHealth\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+C:\MyHealth\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb

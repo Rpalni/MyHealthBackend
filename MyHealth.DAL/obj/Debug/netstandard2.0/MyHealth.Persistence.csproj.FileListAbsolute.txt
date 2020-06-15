@@ -1,0 +1,14 @@
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.Persistence.deps.json
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.Persistence.dll
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.Persistence.pdb
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.DomainModel.dll
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.Persistence.Contracts.dll
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.Persistence.Contracts.pdb
+C:\MyHealth\MyHealth.Persistence\bin\Debug\netstandard2.0\MyHealth.DomainModel.pdb
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.csprojAssemblyReference.cache
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.csproj.CoreCompileInputs.cache
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.AssemblyInfoInputs.cache
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.AssemblyInfo.cs
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.csproj.CopyComplete
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.dll
+C:\MyHealth\MyHealth.Persistence\obj\Debug\netstandard2.0\MyHealth.Persistence.pdb

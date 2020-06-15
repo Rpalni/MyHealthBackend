@@ -1,0 +1,8 @@
+C:\MyHealth\Contracts\bin\Debug\netstandard2.0\MyHealthContracts.deps.json
+C:\MyHealth\Contracts\bin\Debug\netstandard2.0\MyHealthContracts.dll
+C:\MyHealth\Contracts\bin\Debug\netstandard2.0\MyHealthContracts.pdb
+C:\MyHealth\Contracts\obj\Debug\netstandard2.0\MyHealthContracts.csproj.CoreCompileInputs.cache
+C:\MyHealth\Contracts\obj\Debug\netstandard2.0\MyHealthContracts.AssemblyInfoInputs.cache
+C:\MyHealth\Contracts\obj\Debug\netstandard2.0\MyHealthContracts.AssemblyInfo.cs
+C:\MyHealth\Contracts\obj\Debug\netstandard2.0\MyHealthContracts.dll
+C:\MyHealth\Contracts\obj\Debug\netstandard2.0\MyHealthContracts.pdb
